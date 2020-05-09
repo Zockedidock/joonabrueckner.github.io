@@ -47,3 +47,8 @@ img {
     width: 40%;
     padding-top: 66.6px;
 }
+#bot {
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+}
